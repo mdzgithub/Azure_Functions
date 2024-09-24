@@ -36,7 +36,7 @@ Where `YYYY-MM-DD` represents the current date.
 
 The main components of the function are:
 
-1. `generate_expense_data()`: Creates simulated expense data for three employees.
+1. `generate_expense()`: Creates simulated expense data for three employees.
 
 ## Customization
 
